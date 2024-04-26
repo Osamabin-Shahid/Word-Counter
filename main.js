@@ -22,4 +22,3 @@ while (condition) {
     condition = answer.again;
     console.log(chalk.bgGrey.bold.yellow(`Your sentence have total ${words.length} words`));
 }
-// improper run on Npm, github upload, post on social media
